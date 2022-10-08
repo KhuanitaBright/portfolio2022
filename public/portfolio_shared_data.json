@@ -1,0 +1,56 @@
+{
+    "basic_info": {
+      "name": "Khuanita Bright",
+      "titles": [ "Front-end Developer", "Mobile App Developer" ],
+      "social": [
+        {
+         
+        }
+      ],
+      "image": "myProfile.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "React JS",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
+          "name": "React Native",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        }
+      ]
+    }
+  }

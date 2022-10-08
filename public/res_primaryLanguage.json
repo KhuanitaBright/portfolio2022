@@ -1,0 +1,185 @@
+{
+    "basic_info": {
+      "description_header": "Hi 👋",
+      "description": "I'm Khuanita Bright. Pronounced: 'Koo-uh-nee-ta'. A bit unconventional, I know (thanks a lot mom and dad), but I’ve heard it pronounced a million different ways before so it doesn’t really matter. I prefer going by KB anyway.\n I’ve been in the industry for 7 years, in which I've grown from a content manager to a front-end developer in 2017, when I graduated from a course in web development, where I learned HTML 5, CSS 3 and Javascript. Since then, I’ve been coding in React Js and React-native with a firm knowledge of Typescript (thank God for hooks, right?). \n I'd describe myself as a level-headed person with a rational approach to problem solving combined with a passion for innovation and fresh ideas. I am able to use discipline in an appropriate manner and set high goals, then work hard (with my team) to achieve them. \n I love binging on foreign language Netflix series, Korean, Italian, French, you name it.. (with subtitles, of course), coffee and family time. I’m a mom to a very sassy 3 year old daughter. \n I'm very interested in growing and working with positive people on ambitious projects.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "The Foschini Group",
+        "startDate": "2020",
+        "description": "React Native Android and iOS E-commerce App. One of the most exciting applications I had the opportunity to work on. I've learned many technologies and skills on this project.",
+        "images": [
+          "images/portfolio/tfg/tfg.png",
+          "images/portfolio/tfg/tfg1.png",
+          "images/portfolio/tfg/tfg2.png",
+          "images/portfolio/tfg/tfg3.png",
+          "images/portfolio/tfg/tfg4.png",
+          "images/portfolio/tfg/tfg5.png",
+          "images/portfolio/tfg/tfg6.png",
+          "images/portfolio/tfg/tfg7.png",
+          "images/portfolio/tfg/tfg8.png",
+          "images/portfolio/tfg/tfg9.png",
+          "images/portfolio/tfg/tfg10.png",
+          "images/portfolio/tfg/tfg11.png",
+          "images/portfolio/tfg/tfg12.png"
+
+
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          }
+        ]
+      },
+      {
+        "title": "Checkers",
+        "startDate": "2018-2022",
+        "description": "I've contributed to the front-end developement of the Checkers rewards app and Spin2Win gamification. The Spin2Win project won silver in the 2021 SA Smarties Awards, in the Mobile Gaming, Gamification & E-Sports category. I'm very proud to have been a part of that. I also contributed in the development of a web-based content managemet system built in React JS and stored in Firebase, where Checkers could update content relating to current specials, promotions, themes, banners, terms and conditions, etc.",
+        "images": [
+          "images/portfolio/checkers/checkers.png",
+          "images/portfolio/checkers/checkers1.png",
+          "images/portfolio/checkers/checkers2.png",
+          "images/portfolio/checkers/checkers3.png",
+          "images/portfolio/checkers/checkers4.png",
+          "images/portfolio/checkers/checkers5.png",
+          "images/portfolio/checkers/checkers6.png",
+          "images/portfolio/checkers/checkers7.png",
+          "images/portfolio/checkers/checkers8.png",
+          "images/portfolio/checkers/checkers9.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React JS"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Ovex",
+        "startDate": "2021-2022",
+        "description": "Ovex is the first cryptocurrency exchange project that I have worked on. It was challenging, exciting and interesting learning about the industry by building their system. In this project, aside from front-end, I learned how to integrate endpoints in the backend using GraphQL.",
+        "images": [
+          "images/portfolio/ovex/ovex.jpeg",
+          "images/portfolio/ovex/ovex1.png",
+          "images/portfolio/ovex/ovex2.png",
+          "images/portfolio/ovex/ovex3.png",
+          "images/portfolio/ovex/ovex4.png",
+          "images/portfolio/ovex/ovex5.png",
+          "images/portfolio/ovex/ovex6.png",
+          "images/portfolio/ovex/ovex7.png",
+          "images/portfolio/ovex/ovex9.png",
+          "images/portfolio/ovex/ovex10.png",
+          "images/portfolio/ovex/ovex11.png",
+          "images/portfolio/ovex/ovex12.png",
+          "images/portfolio/ovex/ovex13.png"
+
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React JS"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-graphql-plain",
+            "name": "GraphQL"
+          }
+          
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Makebetter Consulting",
+        "title": "Front-End Developer",
+        "years": "02.2018 - present",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "Typescript",
+          "React Native",
+          "Firebase",
+          "JavaScript",
+          "Bootstrap",
+          "React Material",
+          "GraphQL"
+        ]
+      },
+      {
+        "company": "Jobvine Global",
+        "title": "Content Manager",
+        "years": "01.2016 - 04.2017",
+        "mainTech": [
+          "WordPress"
+        ],
+        "technologies": [
+          "Squarespace",
+          "Moz",
+          "Google Ads",
+          "Google Analytics",
+          "Social Media",
+          "Mailchimp",
+          "Shopify"
+        ]
+      },
+      {
+        "company": "Jobvine SA",
+        "title": "Content Creator",
+        "years": "03.2015 - 01.2016",
+        "mainTech": [
+          "WordPress"
+        ],
+        "technologies": [
+          "Squarespace",
+          "Moz",
+          "Google Ads",
+          "Google Analytics",
+          "Social Media",
+          "Mailchimp",
+          "Shopify"
+        ]
+      }
+    ]
+  }
